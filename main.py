@@ -3,7 +3,7 @@ from telebot import *
 from telebot.types import InlineKeyboardMarkup as Mk ,InlineKeyboardButton as btn
 
 
-Token = os.environ.get("tokens")
+Token = 6016537523:AAG_dwrxXGFrRhtQEHhWB9fUZytIJbVKJ-U
 id = os.environ.get("dev")
 id_channel = os.environ.get("ch")
 bot = TeleBot(Token)
