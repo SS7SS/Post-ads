@@ -3,7 +3,7 @@
 Developer: Hussien pyrogram
 
 ### التنصيب عبر هيروكو ##
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SS7SS/communication)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SS7SS/post-ads)
 - احصل على الايبي هاش والايبي ايدي من  [هـنا](https://my.telegram.org/)    
 
 ## الـقـناة ##
