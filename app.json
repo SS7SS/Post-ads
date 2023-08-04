@@ -23,7 +23,7 @@
             "required": "False",
             "value": ""
         },
-        "ch": {
+        "chid": {
             "description": "ضع ايدي قناة التي تريد النشر فيها"
 
         }
