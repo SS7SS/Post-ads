@@ -15,7 +15,7 @@
     "website": "https://t.me/hussien_pyrogram",
     "success_url": "https://t.me/hussien_pyrogram",
     "env": {
-        "token": {
+        "tokens": {
             "description": "ضع توكن البوت الخاص بك"
         },
         "dev": {
