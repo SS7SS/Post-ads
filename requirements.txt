@@ -1,4 +1,1 @@
-pyrogram
-datetime
-user_agent
-pyromod
+pyTelegramBotAPI
