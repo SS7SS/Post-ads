@@ -5,7 +5,7 @@ from telebot.types import InlineKeyboardMarkup as Mk ,InlineKeyboardButton as bt
 
 Token = "6016537523:AAG_dwrxXGFrRhtQEHhWB9fUZytIJbVKJ-U"
 id = os.environ.get("dev")
-id_channel = os.environ.get("ch")
+id_channel = os.environ.get("chid")
 bot = TeleBot(Token)
 ch = bot.get_chat(id_channel)
 link = Mk().add(btn(text=f'{ch.title}',url=f't.me/{ch.username}'))
