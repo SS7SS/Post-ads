@@ -1,5 +1,5 @@
 {
-    "name": "بوت تواصل",
+    "name": "بوت نشر اعلانات",
     "description": "المطور حسين بايروكرام",
     "keywords": [
         "telegram",
@@ -11,25 +11,21 @@
         "maker",
         "generator"
     ],
-    "repository": "https://github.com/SS7SS/communication",
+    "repository": "https://github.com/SS7SS/Post-ads",
     "website": "https://t.me/hussien_pyrogram",
     "success_url": "https://t.me/hussien_pyrogram",
     "env": {
-        "api_hash": {
-            "description": "ضع ايبي هاش الخاص بك"
-        },
-        "api_id": {
-            "description": "ضع ايبي ايدي الخاص بك",
-            "required": "False",
-            "value": ""
-        },
         "token": {
-            "description": "ضع التوكن الخاص بك"
+            "description": "ضع توكن البوت الخاص بك"
         },
-        "id": {
-            "description": "ضع ايدي المطور الخاص بك",
+        "dev": {
+            "description": "ضع ايدي الخاص بك",
             "required": "False",
             "value": ""
+        },
+        "ch": {
+            "description": "ضع ايدي قناة التي تريد النشر فيها"
+
         }
     },
     "stack": "heroku-20",
