@@ -1,4 +1,4 @@
-# Welcome to the communication bot
+# Welcome to the post ads bot
 
 Developer: Hussien pyrogram
 
